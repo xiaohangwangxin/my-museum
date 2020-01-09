@@ -31,7 +31,7 @@
 
 ## 原型展示
 
-### [原型查看链接](https://gitee.com/NFUNM083/museum/pages)
+### [原型查看链接](http://nfunm083.gitee.io/museum/#g=1)
 
 
 
