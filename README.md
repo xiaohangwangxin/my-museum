@@ -33,6 +33,10 @@
 
 ### [原型查看链接](http://nfunm083.gitee.io/museum/#g=1)
 
+### [原型下载链接](https://github.com/xiaohangwangxin/my-museum/blob/master/%E5%8D%9A%E7%89%A9%E9%A6%86.rp)
+
+### 原型图片展示
+
 
 
  
