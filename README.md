@@ -36,6 +36,13 @@
 ### [原型下载链接](https://github.com/xiaohangwangxin/my-museum/blob/master/%E5%8D%9A%E7%89%A9%E9%A6%86.rp)
 
 ### 原型图片展示
+![功能选择](https://github.com/xiaohangwangxin/my-museum/blob/master/ab3ce778ccc69b744922e2a72ddce61.png)
+
+![人流量查询](https://github.com/xiaohangwangxin/my-museum/blob/master/b320e6b07682a657f093e02929aecfa.png)
+
+![展品查询](https://github.com/xiaohangwangxin/my-museum/blob/master/c71a03511cdd63c57f27bc0e617a5c7.png)
+
+![人工服务](https://github.com/xiaohangwangxin/my-museum/blob/master/fa7b9c8e3ec40acb99dc0569f207d9c.png)
 
 
 
